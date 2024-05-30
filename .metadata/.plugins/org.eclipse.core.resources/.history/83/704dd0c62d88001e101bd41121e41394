@@ -1,0 +1,9 @@
+package com.kn.encapsulation;
+
+public class ClassRoom {
+
+	private int Temperature;
+
+	
+
+}

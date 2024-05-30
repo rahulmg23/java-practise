@@ -1,0 +1,37 @@
+package com.kn.entities;
+
+public class Person {
+
+		Mobile mobile;
+
+		public Person() {
+			super();
+			// TODO Auto-generated constructor stub
+		}
+
+		public Person(Mobile mobile) {
+			super();
+			this.mobile = mobile;
+		}
+
+		/**
+		 * @return the mobile
+		 */
+		public Mobile getMobile() {
+			return mobile;
+		}
+
+		/**
+		 * @param mobile the mobile to set
+		 */
+		public void setMobile(Mobile mobile) {
+			this.mobile = mobile;
+		}
+
+		@Override
+		public String toString() {
+			return "Person [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+					+ super.toString() + "]";
+		}
+		
+}

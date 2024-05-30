@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean  class="com.kn.entities.Mobile">
+
+		<property name="brand" value="1234"></property>
+		<property name="RAM" value="rahul"></property>
+		<property name="cost" value="1234"></property>
+	</bean>
+
+	<bean id="person" class="com.kn.entities.Person" autowire="constructor">	
+	
+		
+
+
+	</bean>
+
+</beans>

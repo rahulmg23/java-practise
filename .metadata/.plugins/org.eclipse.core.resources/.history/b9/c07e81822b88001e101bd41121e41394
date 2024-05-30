@@ -1,0 +1,16 @@
+package com.kn.encapsulation;
+
+public class ClassRoom {
+
+	private int temperature;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ClassRoom c1 = new ClassRoom();
+		System.out.println(c1);
+		c1.temperature=200;
+		System.out.println("mod temp" +c1.temperature);
+		
+	}
+
+}

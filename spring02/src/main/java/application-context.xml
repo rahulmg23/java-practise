@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="laptop1" class="com.kn.beans.Laptop">
+		<property name="manufacture" value="wfa" />
+		<property name="cost" value="2321" />
+	</bean>
+
+	<bean id="laptop2" class="com.kn.beans.Laptop">
+		<constructor-arg name="manufacture" value="wfaaf" />
+		<constructor-arg name="cost" value="232232341" />
+	</bean>
+	
+
+</beans>

@@ -1,0 +1,15 @@
+package com.kn.interivew.string;
+
+public class Stringreverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			
+		String str = "asdf";
+		
+		//String buffer metdh
+		StringBuffer sbuffer = new StringBuffer(str);
+		System.out.println(sbuffer.reverse());
+	}
+
+}

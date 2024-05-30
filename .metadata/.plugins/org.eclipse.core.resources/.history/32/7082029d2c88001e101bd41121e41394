@@ -1,0 +1,10 @@
+package com.kn.encapsulation;
+
+public class ClassRoomApp {
+
+	private int getTemperature() {
+		return 0;
+		
+	}
+
+}

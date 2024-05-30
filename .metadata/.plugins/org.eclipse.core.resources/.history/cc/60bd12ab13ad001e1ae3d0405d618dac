@@ -1,0 +1,7 @@
+package com.kn.entities;
+
+public class Person {
+
+		Mobile mobile;
+		
+}

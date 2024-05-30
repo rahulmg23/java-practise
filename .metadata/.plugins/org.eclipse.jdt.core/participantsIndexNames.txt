@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2323042404.index
+\eshop\src\main\java
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3982260197.index
+\HibernateEcommerceWebApp\src\main\java
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3509201595.index
+\HibernateEcommerceWebApp\src\main\java
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1019527239.index
+\eshop\src\main\java
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3073118781.index
+\eshop\src\main\java
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1289801909.index
+\eshop\src\main\java
+C:\Users\raulg\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1832622570.index
+\eshop\src\main\java

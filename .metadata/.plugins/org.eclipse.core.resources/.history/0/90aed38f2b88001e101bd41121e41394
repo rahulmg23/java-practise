@@ -1,0 +1,15 @@
+package com.kn.encapsulation;
+
+public class ClassRoom {
+
+	
+
+	public static void main(String[] args) {
+		ClassRoom c1 = new ClassRoom();
+		System.out.println("temp="+c1);
+		c1.temperature=200;
+		System.out.println("mod temp" +c1.temperature);
+		
+	}
+
+}

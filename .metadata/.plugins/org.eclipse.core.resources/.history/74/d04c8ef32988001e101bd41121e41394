@@ -1,0 +1,11 @@
+package com.kn.encapsulation;
+
+public class ClassApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Temepratre c1 = new Temperature();
+		
+	}
+
+}

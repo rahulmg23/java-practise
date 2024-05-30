@@ -1,0 +1,14 @@
+package com.kn.encapsulation;
+
+public class ClassRoomApp {
+
+	private int getTemperature() {
+		return this.Temperature;
+	}
+
+	public void setTemperature(int temperature) {
+		this.Temperature = temperature;
+	}
+	}
+
+

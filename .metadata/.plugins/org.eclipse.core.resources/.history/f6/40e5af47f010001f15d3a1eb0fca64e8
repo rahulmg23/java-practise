@@ -1,0 +1,21 @@
+package com.kn.strings;
+
+import java.util.Scanner;
+
+public class Stirngeverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			Scanner scan = new Scanner(System.in);
+			System.out.println("enter the string");
+			
+			String str = scan.nextLine();
+			
+			
+			// string builder
+			
+			StringBuilder sbuilder = new StringBuilder();
+			System.out.println(sbuilder.reverse());
+	}	
+
+}
